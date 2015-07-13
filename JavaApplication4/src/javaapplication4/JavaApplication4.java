@@ -14,6 +14,7 @@ public class JavaApplication4 {
     /**
      * @param args the command line arguments
      */
+     int h;
     public static void main(String[] args) {
         // TODO code application logic here
     }
