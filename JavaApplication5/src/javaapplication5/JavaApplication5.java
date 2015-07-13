@@ -11,6 +11,7 @@ package javaapplication5;
  */
 public class JavaApplication5 {
 int h;
+int y;
     /**
      * @param args the command line arguments
      */
